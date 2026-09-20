@@ -1,6 +1,4 @@
 <div align="center">
-
-# Pedro Lucas Lopes Souza
 **Analista de Dados migrando para Engenharia de Dados**
 
 *Construindo a infraestrutura e a inteligência por trás dos dados. Focado em desenvolver pipelines robustos (ETL/ELT), arquitetura de dados e modelos analíticos para transformar dados brutos em decisões estratégicas.*
@@ -57,14 +55,3 @@ Pipeline de dados completo criado para otimizar os investimentos publicitários 
 
 ### 🛒 Análise de E-commerce (Base Olist)
 Limpeza, Análise Exploratória (EDA) e processamento em lote de uma base de dados massiva do mundo real (Olist). Integração de queries avançadas em SQL e scripts Python, resultando em métricas de negócio consolidadas através de relatórios visuais no Power BI.
-
----
-
-<div align="center">
-  <a href="https://github.com/pedrolucasds">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrolucasds&show_icons=true&theme=radical&hide_border=true" height="150" alt="Estatísticas do GitHub"/>
-  </a>
-  <a href="https://github.com/pedrolucasds">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasds&layout=compact&theme=radical&hide_border=true" height="150" alt="Linguagens mais utilizadas"/>
-  </a>
-</div>+
