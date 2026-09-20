@@ -1,7 +1,12 @@
 <div align="center">
-**Analista de Dados migrando para Engenharia de Dados**
+
+# Analista de Dados migrando para Engenharia de Dados
+
+<br>
 
 *Construindo a infraestrutura e a inteligência por trás dos dados. Focado em desenvolver pipelines robustos (ETL/ELT), arquitetura de dados e modelos analíticos para transformar dados brutos em decisões estratégicas.*
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Engenharia+de+Dados;Ciência+de+Dados;Business+Intelligence)](https://git.io/typing-svg)
 
@@ -11,7 +16,9 @@
 
 </div>
 
----
+<br>
+<hr>
+<br>
 
 ## 👨‍💻 Sobre Mim
 
@@ -23,7 +30,7 @@ Minha paixão é atuar nos bastidores: construindo a arquitetura, automatizando 
 - 🎯 **Foco Atual:** Arquitetura de Dados, Orquestração de Pipelines (ETL/ELT), Bancos de Dados Relacionais e base em Machine Learning.
 - 🌍 **Línguas:** Português (Nativo) e Inglês (Profissional).
 
----
+<br>
 
 ## 🛠️ Stack Tecnológico
 
@@ -42,7 +49,9 @@ Minha paixão é atuar nos bastidores: construindo a arquitetura, automatizando 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 
----
+<br>
+<hr>
+<br>
 
 ## 🚀 Portfólio de Projetos
 
@@ -55,3 +64,16 @@ Pipeline de dados completo criado para otimizar os investimentos publicitários 
 
 ### 🛒 Análise de E-commerce (Base Olist)
 Limpeza, Análise Exploratória (EDA) e processamento em lote de uma base de dados massiva do mundo real (Olist). Integração de queries avançadas em SQL e scripts Python, resultando em métricas de negócio consolidadas através de relatórios visuais no Power BI.
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+  <a href="https://github.com/pedrolucasds">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrolucasds&show_icons=true&theme=radical&hide_border=true" height="150" alt="Estatísticas do GitHub"/>
+  </a>
+  <a href="https://github.com/pedrolucasds">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasds&layout=compact&theme=radical&hide_border=true" height="150" alt="Linguagens mais utilizadas"/>
+  </a>
+</div>
